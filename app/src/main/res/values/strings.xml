@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TugasPPB2</string>
+    <string name="selected_item">SelectedItem</string>
+    <string-array name="Jabatan">
+        <item>Web Developer</item>
+        <item>Software Developer</item>
+        <item>Database Developer</item>
+        <item>IT Support</item>
+        <item>UI/UX Desainer</item>
+        <item>Video Editor</item>
+    </string-array>
+</resources>
